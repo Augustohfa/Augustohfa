@@ -1,6 +1,5 @@
 Hi, I’m Augusto Azevedo
 I’m currently learning Python
-I’m looking to collaborate on posting everything I can, like better scripts and my college excercises for those who are just starting as coders.
 
 
 <!---
