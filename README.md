@@ -1,5 +1,5 @@
 Hi, I’m Augusto Azevedo
-I’m currently learning Python
+I’m currently learning Python, JS, Java & VLang
 
 
 <!---
