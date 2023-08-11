@@ -1,5 +1,5 @@
 Hi, I’m Augusto Azevedo
-I’m currently learning Python, JS, Java & VLang
+I’m a Python developer interested in becoming a Machine Learning and Data Science engineer!
 
 
 <!---
